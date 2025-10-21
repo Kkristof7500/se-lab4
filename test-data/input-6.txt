@@ -1,0 +1,6 @@
+# Alternálás 4 egymás utáni SINGLE lövéssel, mindkét tár 2-2 torpedó
+GT4500,2,0.0,2,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
