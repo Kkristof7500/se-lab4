@@ -1,0 +1,4 @@
+# Secondary üres, előző hívásban a primary lőtt → próbáljon újra a primary-ból
+GT4500,2,0.0,0,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
