@@ -1,4 +1,4 @@
-# Secondary üres, előző hívásban a primary lőtt → próbáljon újra a primary-ból
+# Secondary üres, előző lövés primary → próbálja újra a primary-t
 GT4500,2,0.0,0,0.0
 TORPEDO,SINGLE
 TORPEDO,SINGLE
